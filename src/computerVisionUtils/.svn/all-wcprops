@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/cosmos/cosmosOF/src/computerVisionUtils
+END
+contourSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/cosmos/cosmosOF/src/computerVisionUtils/contourSimplify.cpp
+END
+contourSimplify.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/cosmos/cosmosOF/src/computerVisionUtils/contourSimplify.h
+END
+convexHull.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/cosmos/cosmosOF/src/computerVisionUtils/convexHull.h
+END
+polylineSimplify.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/cosmos/cosmosOF/src/computerVisionUtils/polylineSimplify.h
+END

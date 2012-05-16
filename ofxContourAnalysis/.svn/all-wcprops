@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/104/trunk/OF_0061_LAB/core/addons/ofxContourAnalysis
+END
+ofxContourAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/104/trunk/OF_0061_LAB/core/addons/ofxContourAnalysis/ofxContourAnalysis.h
+END
+convexHull.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/104/trunk/OF_0061_LAB/core/addons/ofxContourAnalysis/convexHull.h
+END
+ofxContourAnalysisConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/104/trunk/OF_0061_LAB/core/addons/ofxContourAnalysis/ofxContourAnalysisConstants.h
+END
+polylineSimplify.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/104/trunk/OF_0061_LAB/core/addons/ofxContourAnalysis/polylineSimplify.h
+END
